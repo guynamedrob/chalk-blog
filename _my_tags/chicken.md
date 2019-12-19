@@ -1,0 +1,4 @@
+---
+slug: chicken
+name: Chicken
+---
