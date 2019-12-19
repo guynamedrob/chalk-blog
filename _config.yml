@@ -3,7 +3,8 @@
 blog_theme: light # Or use dark
 name: Chalk
 paginate: 25
-url: https://guynamedrob.github.io/chalk-blog/
+url: https://guynamedrob.github.io/
+baseurl: chalk-blog
 
 
 # Optional settings
