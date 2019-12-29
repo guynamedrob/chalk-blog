@@ -1,4 +1,0 @@
----
-slug: light
-name: Light
----

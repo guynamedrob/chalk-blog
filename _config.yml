@@ -1,7 +1,7 @@
 # Mandatory settings
 
 blog_theme: light # Or use dark
-name: Chalk
+name: Random thoughts by a guy named Rob.
 paginate: 25
 url: https://guynamedrob.github.io/
 
@@ -10,7 +10,7 @@ url: https://guynamedrob.github.io/
 
 baseurl: /chalk-blog
 about_enabled: true # Change to true if you wish to show an icon in the navigation that redirects to the about page
-discus_identifier: chalk-1 # Add your Disqus identifier
+discus_identifier: # Add your Disqus identifier
 ga_analytics: UA-154647404-1 # Add your GA Tracking Id
 local_fonts: false # Change to true if you wish to use local fonts
 rss_enabled: true # Change to false if not
@@ -54,6 +54,7 @@ assets:
     - _assets/javascripts
     - _assets/stylesheets
     - _assets/yarn
+    - _assets/images
 collections:
   my_tags:
     output: true
