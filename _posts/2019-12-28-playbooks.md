@@ -42,9 +42,24 @@ There are a ton of resources out there on playbooks... Gonna start listing them:
 
 [Wiley - A Playbook for Developers](https://www.wiley.com/en-us/Design+for+Software%3A+A+Playbook+for+Developers-p-9781119942900)
 
+[Typeform Product Playbook](https://productcoalition.com/the-typeform-product-playbook-49e1a5cc3a08)
+
+[Very Project Playbook](https://www.verypossible.com/playbook)
+  - Consulting practice
+
+[Product Design Playbook](https://uxdesign.cc/product-design-playbook-103d3a5cf2e3)
+
+[Continuous Organization Design Playbook](https://medium.com/nick-tune-tech-strategy-blog/the-continuous-organisation-design-playbook-248b2c4e0816)
+
 ## Creating a Playbook
 
 [boagworld](https://boagworld.com/digital-strategy/digital-playbook/)
+
+[Why You Need a Company Playbook](https://www.business2community.com/b2b-marketing/why-you-need-a-company-playbook-02120830)
+
+[Proposify Why you need a Team Playbook](https://www.proposify.com/blog/team-playbook)
+
+[Elements of a Business Playbook](https://www.talentism.com/post/elements-of-the-business-playbook)
 
 
 
