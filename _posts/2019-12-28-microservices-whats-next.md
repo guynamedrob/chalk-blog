@@ -6,4 +6,4 @@ thumb_image: "documentation/sample-image.jpg"
 tags: [architecture, microservices, kubernetes]
 ---
 
-Things to come...
+Starting with getting research & relevent links…

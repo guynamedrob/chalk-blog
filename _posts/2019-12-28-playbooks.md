@@ -45,11 +45,20 @@ There are a ton of resources out there on playbooks... Gonna start listing them:
 [Typeform Product Playbook](https://productcoalition.com/the-typeform-product-playbook-49e1a5cc3a08)
 
 [Very Project Playbook](https://www.verypossible.com/playbook)
-  - Consulting practice
+
+- Consulting practice
+
+[Kohactive Company Playbook](https://www.kohactive.com/playbook/)
+
+[Architecture Playbook](https://architectureplaybook.readthedocs.io/en/latest/index.html)
+
+[Prograils Company Playbook](https://prograils.com/playbook/)
 
 [Product Design Playbook](https://uxdesign.cc/product-design-playbook-103d3a5cf2e3)
 
 [Continuous Organization Design Playbook](https://medium.com/nick-tune-tech-strategy-blog/the-continuous-organisation-design-playbook-248b2c4e0816)
+
+[Softtek Digital Agility Playbook - never got download](https://www.softtek.com/playbooks/mind-the-digital-gap-01)
 
 ## Creating a Playbook
 
@@ -60,11 +69,3 @@ There are a ton of resources out there on playbooks... Gonna start listing them:
 [Proposify Why you need a Team Playbook](https://www.proposify.com/blog/team-playbook)
 
 [Elements of a Business Playbook](https://www.talentism.com/post/elements-of-the-business-playbook)
-
-
-
-## Misc Useful Links I Came Accross
-
-[CDO Guide to DT](https://www.ca.com/content/dam/ca/us/files/ebook/the-chief-digital-officers-guide-to-digital-transformation.pdf)
-
-[Future of EA](https://www.boozallen.com/content/dam/boozallen_site/sig/pdf/publications/future-of-enterprise-architecture.pdf)
