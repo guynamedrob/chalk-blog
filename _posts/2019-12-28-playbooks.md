@@ -8,6 +8,8 @@ tags: [process]
 
 There are a ton of resources out there on playbooks... Gonna start listing them:
 
+## Resource
+
 [Thoughtbot](https://thoughtbot.com/playbook)
 
 [Booz Allen Hamilton Agile Playbook](https://www.boozallen.com/content/dam/boozallen_site/sig/pdf/publications/agile-playbook.pdf)
@@ -58,7 +60,21 @@ There are a ton of resources out there on playbooks... Gonna start listing them:
 
 [Continuous Organization Design Playbook](https://medium.com/nick-tune-tech-strategy-blog/the-continuous-organisation-design-playbook-248b2c4e0816)
 
-[Softtek Digital Agility Playbook - never got download](https://www.softtek.com/playbooks/mind-the-digital-gap-01)
+[Softtek Digital Agility Playbook](http://www.softtek.com/images/public/docs/Playbook_2017.pdf)
+
+[](https://blog.walkme.com/managers-digital-transformation-playbook/)
+
+[](https://www.matrixx.com/digital-transformation-playbook/)
+
+[](https://www.pluralsight.com/courses/microservices-architectural-design-patterns-playbook)
+
+[](http://leanproductplaybook.com/)
+
+[](https://www.tablegroup.com/imo/media/doc/AdvantageDevelop_a_Playbook(6).pdf)
+
+[](https://www.alexandercowan.com/enterprise-software-playbook/)
+
+[](https://www.accenture.com/us-en/insight-beyond-product-rewriting-innovation-playbook)
 
 ## Creating a Playbook
 

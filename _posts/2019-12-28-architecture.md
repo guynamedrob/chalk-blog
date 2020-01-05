@@ -8,7 +8,7 @@ tags: [architecture]
 
 A starting place...
 
-## Links
+## Resource
 
 [Future of EA](https://www.boozallen.com/content/dam/boozallen_site/sig/pdf/publications/future-of-enterprise-architecture.pdf)
 
@@ -38,3 +38,39 @@ A starting place...
 [Architecture Playbook](https://architectureplaybook.readthedocs.io/en/latest/introduction.html)
 
 [What Is a Service Mesh, and Why Do You Need One?](https://dzone.com/articles/what-is-a-service-mesh-and-why-do-you-need-one)
+
+[](https://pubs.opengroup.org/architecture/togaf9-doc/arch/index.html)
+
+[](http://www.cloudcomputingpatterns.org/)
+
+[](https://dodcio.defense.gov/Library/DoD-Architecture-Framework/dodaf20_logical/)
+
+[](https://www.architectureandgovernance.com/)
+
+[](https://architectureplaybook.readthedocs.io/en/latest/application-architecture.html)
+
+[](https://www.bmc.com/blogs/enterprise-architecture-frameworks/)
+
+[](https://www.genpact.com/insight/blog/enterprise-architecture-frameworks)
+
+[](https://eapad.dk/ea3-cube/overview/)
+
+[](https://internationaleainstitute.org/)
+
+[](http://spots.augusta.edu/tschultz/resources/ebooks/IntroEntArch/FullText.pdf)
+
+[](http://eabok.org/organizational_scope/)
+
+[](https://www.innovify.com/blogs/7-enterprise-architecture-principles-to-keep-in-mind-while-building-your-next-product)
+
+[](https://www.cutter.com/practice-areas/business-enterprise-architecture)
+
+[](https://www.ibm.com/developerworks/rational/library/enterprise-architecture-maximum-value/index.html)
+
+[](http://www.uxdmedia.com/blog-detail/enterprise-architecture-and-application-development-process)
+
+[Global Business-Outcome-Driven Enterprise Architecture Consulting and Solutions Market Report 2019](https://www.reddit.com/r/TechInsightreports/comments/e1t2dr/global_businessoutcomedriven_enterprise/)
+
+[](http://www.togaf.info/togaf9/togafSlides9/TOGAF-V9-Sample-Catalogs-Matrics-Diagrams-v2.pdf)
+
+[The TOGAF Standard](https://publications.opengroup.org/c182?_ga=2.172558819.1703296779.1577026962-906871476.1577026962)
