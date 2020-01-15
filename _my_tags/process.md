@@ -1,4 +1,0 @@
----
-slug: process
-name: Process
----

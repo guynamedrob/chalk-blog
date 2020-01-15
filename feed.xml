@@ -1,20 +1,66 @@
----
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="https://www.w3.org/2005/Atom" xmlns:dc="https://purl.org/dc/elements/1.1/">
   <channel>
-    <title>{{ site.name | xml_escape }}</title>
-    <description>{% if site.description %}{{ site.description | xml_escape }}{% endif %}</description>
-    <link>{{ site.url }}</link>
-    <atom:link href="{{ page.path | absolute_url }}" rel="self" type="application/rss+xml" />
-    {% for post in site.posts limit:10 %}
+    <title>Random thoughts</title>
+    <description></description>
+    <link>https://guynamedrob.github.io/</link>
+    <atom:link href="https://guynamedrob.github.io//chalk-blog/feed.xml" rel="self" type="application/rss+xml" />
+    
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.description | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | absolute_url }}</link>
-        <guid isPermaLink="true">{{ post.url | absolute_url }}</guid>
+        <title>Placeholder for Random Interesting Things</title>
+        <description>A place track of all the other things.</description>
+        <pubDate>Sat, 04 Jan 2020 00:00:00 -0600</pubDate>
+        <link>https://guynamedrob.github.io//chalk-blog/posts/misc</link>
+        <guid isPermaLink="true">https://guynamedrob.github.io//chalk-blog/posts/misc</guid>
       </item>
-    {% endfor %}
+    
+      <item>
+        <title>Company Culture &amp; Culture Frameworks</title>
+        <description>A place talk about company culture &amp; how to make it great.</description>
+        <pubDate>Sat, 04 Jan 2020 00:00:00 -0600</pubDate>
+        <link>https://guynamedrob.github.io//chalk-blog/posts/culture</link>
+        <guid isPermaLink="true">https://guynamedrob.github.io//chalk-blog/posts/culture</guid>
+      </item>
+    
+      <item>
+        <title>One Approach to Product Development</title>
+        <description>A framework for product development</description>
+        <pubDate>Tue, 31 Dec 2019 00:00:00 -0600</pubDate>
+        <link>https://guynamedrob.github.io//chalk-blog/posts/one-approach-to-product-development</link>
+        <guid isPermaLink="true">https://guynamedrob.github.io//chalk-blog/posts/one-approach-to-product-development</guid>
+      </item>
+    
+      <item>
+        <title>Everyone Has Playbooks</title>
+        <description>It looks like everyone has playbook(s)</description>
+        <pubDate>Sat, 28 Dec 2019 00:00:00 -0600</pubDate>
+        <link>https://guynamedrob.github.io//chalk-blog/posts/playbooks</link>
+        <guid isPermaLink="true">https://guynamedrob.github.io//chalk-blog/posts/playbooks</guid>
+      </item>
+    
+      <item>
+        <title>Microservices: What's next</title>
+        <description>Ideas around what comes next in microservce architecture.</description>
+        <pubDate>Sat, 28 Dec 2019 00:00:00 -0600</pubDate>
+        <link>https://guynamedrob.github.io//chalk-blog/posts/microservices-whats-next</link>
+        <guid isPermaLink="true">https://guynamedrob.github.io//chalk-blog/posts/microservices-whats-next</guid>
+      </item>
+    
+      <item>
+        <title>A Business Case for Micro Frontends</title>
+        <description>A look at the business trade-offs for micro frontends.</description>
+        <pubDate>Sat, 28 Dec 2019 00:00:00 -0600</pubDate>
+        <link>https://guynamedrob.github.io//chalk-blog/posts/micro-frontends</link>
+        <guid isPermaLink="true">https://guynamedrob.github.io//chalk-blog/posts/micro-frontends</guid>
+      </item>
+    
+      <item>
+        <title>All Things Architecture</title>
+        <description>A place keeping track of all things architecture.</description>
+        <pubDate>Sat, 28 Dec 2019 00:00:00 -0600</pubDate>
+        <link>https://guynamedrob.github.io//chalk-blog/posts/architecture</link>
+        <guid isPermaLink="true">https://guynamedrob.github.io//chalk-blog/posts/architecture</guid>
+      </item>
+    
   </channel>
 </rss>
